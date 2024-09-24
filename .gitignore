@@ -1,0 +1,3 @@
+*.exe
+.clang-format
+run.bat
